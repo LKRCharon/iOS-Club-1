@@ -1,4 +1,6 @@
-# Welcome to WHU!
+# Welcome to WHU iOS Club!
+
+
 
 
 
